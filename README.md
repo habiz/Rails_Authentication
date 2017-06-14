@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# Rails_Authentication
+simple user authentication using ruby on rails mainly focused around TDD
+>>>>>>> f749c34c829d829cbb3c78d2d155fad0bdb435f4
